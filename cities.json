@@ -1,0 +1,17 @@
+[
+  { "id": "1", "name": "Chennai", "latitude": 13.0827, "longitude": 80.2707, "population": 7088000, "state": "Tamil Nadu" },
+  { "id": "2", "name": "Mumbai", "latitude": 19.0760, "longitude": 72.8777, "population": 20667656, "state": "Maharashtra" },
+  { "id": "3", "name": "Delhi", "latitude": 28.7041, "longitude": 77.1025, "population": 32941000, "state": "Delhi" },
+  { "id": "4", "name": "Bangalore", "latitude": 12.9716, "longitude": 77.5946, "population": 12476000, "state": "Karnataka" },
+  { "id": "5", "name": "Hyderabad", "latitude": 17.3850, "longitude": 78.4867, "population": 10534418, "state": "Telangana" },
+  { "id": "6", "name": "Kolkata", "latitude": 22.5726, "longitude": 88.3639, "population": 14850000, "state": "West Bengal" },
+  { "id": "7", "name": "Pune", "latitude": 18.5204, "longitude": 73.8567, "population": 7276000, "state": "Maharashtra" },
+  { "id": "8", "name": "Ahmedabad", "latitude": 23.0225, "longitude": 72.5714, "population": 8059441, "state": "Gujarat" },
+  { "id": "9", "name": "Jaipur", "latitude": 26.9124, "longitude": 75.7873, "population": 3046163, "state": "Rajasthan" },
+  { "id": "10", "name": "Surat", "latitude": 21.1702, "longitude": 72.8311, "population": 7784276, "state": "Gujarat" },
+  { "id": "11", "name": "Lucknow", "latitude": 26.8467, "longitude": 80.9462, "population": 3681416, "state": "Uttar Pradesh" },
+  { "id": "12", "name": "Nagpur", "latitude": 21.1458, "longitude": 79.0882, "population": 2497777, "state": "Maharashtra" },
+  { "id": "13", "name": "Coimbatore", "latitude": 11.0168, "longitude": 76.9558, "population": 2151466, "state": "Tamil Nadu" },
+  { "id": "14", "name": "Visakhapatnam", "latitude": 17.6868, "longitude": 83.2185, "population": 2035922, "state": "Andhra Pradesh" },
+  { "id": "15", "name": "Bhopal", "latitude": 23.2599, "longitude": 77.4126, "population": 1798218, "state": "Madhya Pradesh" }
+]
